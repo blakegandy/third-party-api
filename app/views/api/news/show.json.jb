@@ -1,0 +1,5 @@
+{
+title: @news.title,
+url: @news.url,
+snippet: @news.snippet
+}
